@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 #### DEVELOPED BY: sreeja.v
-#### REG NO: 21222230169
+#### REG NO: 212222230169
 ## AIM:
 To Implementation of Classical Planning Algorithm
 ## Algorithm:
